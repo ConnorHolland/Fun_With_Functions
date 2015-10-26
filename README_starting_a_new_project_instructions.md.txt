@@ -1,4 +1,4 @@
-# Read Me File to start a program (This is what shows up bold):
+# **Read Me File to start a program (This is what shows up bold):**
 	Example: Fun_With_Functions_Project
 
 1. Start Eclipse
