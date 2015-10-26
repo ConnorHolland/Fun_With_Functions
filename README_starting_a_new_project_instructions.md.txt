@@ -1,4 +1,4 @@
-# Read Me File for fun with functions
+# Read Me File to start a program (This is what shows up bold):
 	Example: Fun_With_Functions_Project
 
 1. Start Eclipse
@@ -25,3 +25,23 @@ Now begin Git and Git Hub
 4. git add . to add my materials
 
 5. git config our user name and email
+
+6. Start a browser of your choice
+
+7. Got to Github: https://github.com/
+
+8. Log into your personal account: https://github.com/login
+
+9. Add a new repository
+	: Name it, and make it public, but do not initialize your folder with a
+		read me file. That initialization makes your life harder.
+	: Press "Create Repository"
+
+10. Follow online instructions on how to
+	...or push an existing repository from the command line
+
+: git remote add origin https://github.com/ConnorHolland/Fun_With_Functions.git
+: git push -u origin master
+
+So go back to the command prompt, and then do the first line, after pressing enter
+	do the second.
